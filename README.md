@@ -1,16 +1,27 @@
-## Hi there 👋
+حتماً. آن بخش را حذف کردم و بقیه‌ی متن را دست‌نخورده نگه داشتم”}
 
-<!--
-**Shahriyardianati/shahriyardianati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Shahriyar Dianati Rad
 
-Here are some ideas to get you started:
+🎓 Civil Engineering Student | 🤖 AI Enthusiast | 🚀 Future AI Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Shahriyar Dianati Rad, a Civil Engineering student interested in Artificial Intelligence, programming, and modern technology.
+
+🧭 My Focus
+	•	🏗️ Civil Engineering
+	•	🤖 Artificial Intelligence
+	•	🐍 Python & Programming
+	•	🧠 Machine Learning & LLMs
+	•	🚀 Practical AI Projects
+
+🎯 My Goal
+
+To combine my Civil Engineering background with Artificial Intelligence and build useful, real-world solutions.
+
+Learn. Build. Improve. 🚀
+
+🤝 Let’s Connect
+
+I’m always interested in learning, sharing ideas, and working on meaningful projects.
+
+⭐ Thanks for visiting my profi
+:::
